@@ -1,2 +1,2 @@
 # GitLearing
-Im learning git: Shilpa
+Im learning git: 
